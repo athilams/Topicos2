@@ -1,0 +1,21 @@
+translação
+1 0 tx		x
+0 1 ty		y
+0 0 1		1
+
+escala
+sx 0  0		x
+0  sy 0		y
+0  0  1		1
+
+rotação
+cos a	-sen a	0	x
+sen a	cons a	0	y
+0	0	1	1
+
+translação em xyz
+1 0 0 tx
+0 1 0 ty
+0 0 1 tz
+0 0 0 1
+segue esta ideia para os outros métodos
