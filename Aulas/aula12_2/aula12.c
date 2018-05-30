@@ -2,10 +2,9 @@
 #include <GL/glut.h>
 #include <stdlib.h>
 #include <stdio.h>
+#include <CImg.h>
 
 #include "plylib.c"
-
-#include "A/CImg.h"
 
 ply_model *model = NULL;
 
